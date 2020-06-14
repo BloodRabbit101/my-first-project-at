@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+allure
+my-first-project-at.iml
+.idea
